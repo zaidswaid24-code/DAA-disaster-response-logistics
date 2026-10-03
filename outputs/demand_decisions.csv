@@ -1,0 +1,35 @@
+node,priority,units,population,deadline_min,status,reason
+3,5,10,800,46.5,SERVED,knapsack choice
+12,5,18,1008,54.3,SERVED,knapsack choice
+54,5,13,1248,65.9,SERVED,knapsack choice
+57,5,17,986,70.4,SERVED,knapsack choice
+49,5,16,848,77.3,NOT SERVED,no depot can arrive before the deadline
+19,4,8,328,65.2,NOT SERVED,supply exhausted (lower value per unit)
+1,4,11,946,80.9,SERVED,knapsack choice
+36,4,5,455,99.1,NOT SERVED,no depot can arrive before the deadline
+8,4,6,372,116.7,SERVED,knapsack choice
+2,4,8,344,120.3,SERVED,knapsack choice
+6,4,12,1032,147.8,SERVED,knapsack choice
+42,4,12,864,196.9,SERVED,knapsack choice
+58,3,4,372,101.8,NOT SERVED,no vehicle left / route infeasible
+14,3,9,828,118.7,SERVED,knapsack choice
+47,3,11,660,195.2,SERVED,knapsack choice
+4,3,12,1116,223.7,SERVED,knapsack choice
+43,3,10,580,295.1,NOT SERVED,no depot with enough stock in time
+18,3,10,490,320.4,NOT SERVED,supply exhausted (lower value per unit)
+44,3,8,456,331.7,NOT SERVED,supply exhausted (lower value per unit)
+40,3,5,250,343.3,SERVED,leftover stock
+38,2,4,256,90.3,SERVED,leftover stock
+37,2,2,184,114.5,NOT SERVED,no vehicle left / route infeasible
+25,2,12,744,138.0,NOT SERVED,supply exhausted (lower value per unit)
+51,2,4,236,144.5,NOT SERVED,supply exhausted (lower value per unit)
+35,2,6,252,257.9,NOT SERVED,supply exhausted (lower value per unit)
+31,2,2,118,350.7,NOT SERVED,supply exhausted (lower value per unit)
+16,1,5,475,108.0,NOT SERVED,supply exhausted (lower value per unit)
+20,1,4,272,132.5,NOT SERVED,supply exhausted (lower value per unit)
+55,1,2,150,181.6,NOT SERVED,supply exhausted (lower value per unit)
+0,1,6,312,225.7,NOT SERVED,supply exhausted (lower value per unit)
+29,1,8,520,248.4,NOT SERVED,supply exhausted (lower value per unit)
+46,1,6,270,260.0,NOT SERVED,supply exhausted (lower value per unit)
+39,1,8,656,325.0,NOT SERVED,supply exhausted (lower value per unit)
+56,1,7,525,349.7,NOT SERVED,supply exhausted (lower value per unit)
